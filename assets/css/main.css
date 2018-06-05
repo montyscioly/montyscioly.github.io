@@ -608,6 +608,7 @@ hr {
   #nav-main li a.nav-link {
     padding-top: 18px;
   }
+
 }
 
 .navbar-toggler {
@@ -647,6 +648,12 @@ hr {
 }
 
 @media screen and (max-width: 768px) {
+  #med{
+    max-width: 100%;
+  }
+  .feature-thumb{
+    margin:0;
+  }
   .navbar-header {
     width: 100%;
   }
