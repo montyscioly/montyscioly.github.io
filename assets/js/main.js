@@ -3,7 +3,7 @@
   "use strict";  
 
   $(window).on('load', function() {
-
+    console.log("sahana kannan is a cs god")
 
   /*Page Loader active
   ========================================================*/
